@@ -3,7 +3,7 @@ body{
   
     width: 100%;
     height: 100vh;
-    background-image:  url('./images/galaxia-en-el-espacio-4052.webp');
+    background-image:  url('galaxia-en-el-espacio-4052.webp');
     background-size: cover;
 }
 header{
